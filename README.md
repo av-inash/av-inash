@@ -1,6 +1,9 @@
 ![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Avinash </h1>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">Experienced Backend Developer with 1 year of hands-on experience in building scalable applications using Node.js,
+MongoDB, and PostgreSQL. Proficient in designing and implementing RESTful APIs, integrating third-party services, and
+working with microservices architecture. Skilled in AWS services, Docker, Redis, and WebSockets, with a strong focus on
+performance optimization and real-time systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av-inash&label=Profile%20views&color=0e75b6&style=flat" alt="av-inash" /> </p>
