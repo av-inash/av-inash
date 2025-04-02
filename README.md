@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av-inash&label=Profile%20views&color=0e75b6&style=flat" alt="av-inash" /> </p>
 
-- 🌱 I’m currently learning **AWS,NGINX,CORE BACKEND,**
+- 🌱 I’m currently learning **AWS,KAFKA,MICROSERVICES,REDIS ,DOCKER**
 
 - 💬 Ask me about **Mongodb,Express,React,Node**
 
