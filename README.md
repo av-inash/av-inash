@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **avinash.techwhiz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q-kWwVmLPIotFtLN8UIetyeqbE3zj7HQ/view?usp=sharing](https://drive.google.com/file/d/1q-kWwVmLPIotFtLN8UIetyeqbE3zj7HQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q-kWwVmLPIotFtLN8UIetyeqbE3zj7HQ/view?usp=sharing](https://drive.google.com/file/d/1MN4EM9LhxDovIrJbKbDYosCDkVMmrtGO/view?usp=sharing)
 
 - ⚡ Fun fact **Love behind the scene like backend**
 
