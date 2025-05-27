@@ -1,6 +1,6 @@
 ![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Avinash </h1>
-<h3 align="center">Experienced Backend Developer with 3 year of hands-on experience in building scalable applications using Node.js,
+<h3 align="center">Experienced Backend Developer with 3+ year of hands-on experience in building scalable applications using Node.js,
 MongoDB, and PostgreSQL. Proficient in designing and implementing RESTful APIs, integrating third-party services, and
 working with microservices architecture. Skilled in AWS services, Docker, Redis, and WebSockets, with a strong focus on
 performance optimization and real-time systems.</h3>
