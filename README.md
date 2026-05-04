@@ -1,4 +1,4 @@
-![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Backend%20Engineer%20🚀&fontSize=35&fontColor=ffffff&animation=twinkling&desc=Microservices%20%7C%20Kafka%20%7C%20Redis%20%7C%20RAG%20%7C%20MCP&descAlignY=70)
 
 <h1 align="center">Hi 👋, I'm Avinash</h1>
 <h3 align="center">🚀 Senior Backend Engineer | Microservices | Scalable Systems | AI (RAG + MCP)</h3>
