@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-- 💼 3+ years building **scalable backend systems**
+- 💼 3.5 years building **scalable backend systems**
 - ⚙️ Microservices deployed on **AWS ECS (15K+ users)**
 - ⚡ Optimized APIs from **3s → 10ms using Redis**
 - 🔄 Built **event-driven systems using Kafka & queues**
