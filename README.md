@@ -48,7 +48,7 @@
 - Real-time coding evaluation
 - Resume builder + certificates
 
----
+
 
 ### 🛠️ Tech Stack
 
